@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![rubygems](https://img.shields.io/badge/rubygems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white)
@@ -9,6 +10,10 @@
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![httpie](https://img.shields.io/badge/httpie-73DC8C?style=for-the-badge&logo=httpie&logoColor=white)
+![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
+![loom](https://img.shields.io/badge/loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
