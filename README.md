@@ -1,6 +1,8 @@
+<div align="center"><h3>
+Hi there, my name is Kenz. Welcome to my perfectly imperfect github. I am actively applying to my first software engineering position coming out of a coding bootcamp at Turing School of Software & Design. I am more determined than ever to continue to learn the ever-changing ways of what it means to be a developer. Lets connect!
+</h3></div>
+  
 ![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
-
-### Hi there, my name is Kenz. Welcome to my perfectly imperfect github. I am actively applying to my first software engineering position coming out of a coding bootcamp at Turing School of Software & Design. I am more determined than ever to continue to learn the ever-changing ways of what it means to be a developer. Lets connect!
 
 - 🔭 I’m currently working on: landing my first dev job! I am open to learning new languages and frameworks. I just love making applications come to life.
 - 🌱 I’m currently learning: everything, all the time.
