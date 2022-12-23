@@ -39,3 +39,5 @@ some of my learning resources:</br>
 ![treehouse](https://img.shields.io/badge/treehouse-000000?style=for-the-badge&logo=treehouse&logoColor=white)
 ![udemy](https://img.shields.io/badge/udemy-000000?style=for-the-badge&logo=udemy&logoColor=white)
 ![youtube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)
+
+[![Kenz's github stats](https://github-readme-stats.vercel.app/api?username=kenzjoy&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/kenzjoy/github-readme-stats)
