@@ -25,7 +25,7 @@ some of my technical tools (always learning more):</br>
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![httpie](https://img.shields.io/badge/httpie-000000?style=for-the-badge&logo=httpie&logoColor=white)
-![postman](https://img.shields.io/badge/postman-0000007?style=for-the-badge&logo=postman&logoColor=white)
+![postman](https://img.shields.io/badge/postman-0000000?style=for-the-badge&logo=postman&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
 
