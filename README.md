@@ -1,5 +1,5 @@
 <div align="center"><h3>
-Hi there, my name is Kenz. Welcome to my perfectly imperfect github.<br><br>
+Hi there, my name is Kenz.<br><br>
 I am actively applying to my first software engineering position coming out of a coding bootcamp at Turing School of Software & Design. I am more determined than ever to continue to learn the ever-changing ways of what it means to be a developer.<br><br>
 Lets connect!
 </h3></div>
@@ -7,7 +7,7 @@ Lets connect!
 ![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
 
 - 🔭 I’m currently working on: landing my first dev job! I am open to learning new languages and frameworks. I just love making applications come to life.
-- 🌱 I’m currently learning: everything, all the time.
+- 🌱 I’m currently learning: AWS, GraphQL, Python
 - 🤔 I’m looking for help with: anything to help sharpen my skills and processes. I want to be a more efficient programmer!
 - 💬 Ask me about: how many steps I walk in a day on my desk-treadmill.
 - 📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
