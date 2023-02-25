@@ -1,3 +1,5 @@
+![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
+
 <div align="center"><h3>
 Hi there, my name is Kenz.<br><br>
   
@@ -7,16 +9,6 @@ I am seeking an opportunity to join a dynamic team that values collaboration, cr
 I bring a curious and team-oriented approach to my work, and I am committed to continuous education and growth as a developer.
 </h3></div>
   
-![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
-
-- 🔭 I’m currently working on: landing my first dev job! I am open to learning new languages and frameworks. I just love making applications come to life.
-- 🌱 I’m currently learning: AWS, GraphQL, Python
-- 🤔 I’m looking for help with: anything to help sharpen my skills and processes. I want to be a more efficient programmer!
-- 💬 Ask me about: how many steps I walk in a day on my desk-treadmill.
-- 📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am currently training for a 50 mile mountain bike race scheduled for July 2023 in Telluride, CO!
-
 some of my technical tools (always learning more):</br>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
@@ -44,3 +36,11 @@ some of my learning resources:</br>
 ![youtube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)
 
 [![Kenz's github stats](https://github-readme-stats.vercel.app/api?username=kenzjoy&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/kenzjoy/github-readme-stats)
+
+- 🔭 I’m currently working on: landing my first dev job! I am open to learning new languages and frameworks. I just love making applications come to life.
+- 🌱 I’m currently learning: AWS, GraphQL, Python
+- 🤔 I’m looking for help with: anything to help sharpen my skills and processes. I want to be a more efficient programmer!
+- 💬 Ask me about: how many steps I walk in a day on my desk-treadmill.
+- 📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am currently training for a 50 mile mountain bike race scheduled for July 2023 in Telluride, CO!
