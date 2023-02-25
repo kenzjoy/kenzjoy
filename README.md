@@ -1,7 +1,10 @@
 <div align="center"><h3>
 Hi there, my name is Kenz.<br><br>
-I am actively applying to my first software engineering position coming out of a coding bootcamp at Turing School of Software & Design. I am more determined than ever to continue to learn the ever-changing ways of what it means to be a developer.<br><br>
-Lets connect!
+  
+I am a problem solver at heart and thrive on new challenges that push me to learn and grow professionally.<br>
+I am seeking an opportunity to join a dynamic team that values collaboration, creativity, and a healthy work-life balance.
+
+I bring a curious and team-oriented approach to my work, and I am committed to continuous education and growth as a developer.
 </h3></div>
   
 ![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
