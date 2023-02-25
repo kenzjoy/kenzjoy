@@ -1,13 +1,13 @@
 ![Earthy Minimalist Name LinkedIn Article Cover Image (3)](https://user-images.githubusercontent.com/108506841/208572543-bf68160f-d55e-42dd-9350-09363f6ab364.png)
 
-<div align="center"><h3>
+<h3>
 Hi there, my name is Kenz.<br><br>
   
 I am a problem solver at heart and thrive on new challenges that push me to learn and grow professionally.<br>
 I am seeking an opportunity to join a dynamic team that values collaboration, creativity, and a healthy work-life balance.
 
 I bring a curious and team-oriented approach to my work, and I am committed to continuous education and growth as a developer.
-</h3></div>
+</h3>
   
 some of my technical tools (always learning more):</br>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
