@@ -3,8 +3,7 @@
 <h3>
 Hi there, my name is Kenz.<br><br>
   
-I am a problem solver at heart and thrive on new challenges that push me to learn and grow professionally.<br>
-I am seeking an opportunity to join a dynamic team that values collaboration, creativity, and a healthy work-life balance.
+I am a problem solver at heart and thrive on new challenges that push me to learn and grow professionally. I am seeking an opportunity to join a dynamic team that values collaboration, creativity, and a healthy work-life balance.
 
 I bring a curious and team-oriented approach to my work, and I am committed to continuous education and growth as a developer.
 </h3>
@@ -23,6 +22,7 @@ some of my technical tools (always learning more):</br>
 ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
+![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 some of my presenting tools:</br>
 ![heroku](https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)
