@@ -38,9 +38,9 @@ some of my learning resources:</br>
 [![Kenz's github stats](https://github-readme-stats.vercel.app/api?username=kenzjoy&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/kenzjoy/github-readme-stats)
 
 - 🔭 I’m currently working on: landing my first dev job! I am open to learning new languages and frameworks. I just love making applications come to life.
-- 🌱 I’m currently learning: AWS, GraphQL, Python
+- 🌱 I’m currently learning: React and figuring out how to build my own website
 - 🤔 I’m looking for help with: anything to help sharpen my skills and processes. I want to be a more efficient programmer!
-- 💬 Ask me about: how many steps I walk in a day on my desk-treadmill.
+- 💬 Ask me about: how many steps I walk in a day on my desk-treadmill, or what my Peloton username is.
 - 📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am currently training for a 50 mile mountain bike race scheduled for July 2023 in Telluride, CO!
