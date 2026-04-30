@@ -4,4 +4,4 @@
 [![Kenz's github stats](https://github-readme-stats.vercel.app/api?username=kenzjoy&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/kenzjoy/github-readme-stats)
 
 
-- 📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
+📫 How to reach me: gmail: kenz.joy.tech@gmail.com | LinkedIn: [kenzjoydev](www.linkedin.com/in/kenzjoydev)
